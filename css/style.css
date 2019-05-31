@@ -26,7 +26,7 @@ body,html
 
 h1
 {
-  font-size: 5vw;
+  font-size: 4vw;
 }
 
 
@@ -196,6 +196,10 @@ hr.light
   font-family: 'Just Another Hand', cursive;
 }
 
+.underline
+{
+  text-decoration: underline;
+}
 
 
 /*
