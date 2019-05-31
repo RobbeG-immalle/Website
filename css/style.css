@@ -8,6 +8,7 @@ body,html
   font-family: "Poppins", sans-serif;
   color: #222;
   overflow-x: hidden;
+  scroll-behavior: smooth;
 }
 
 .navbar
