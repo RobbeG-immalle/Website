@@ -178,6 +178,11 @@ figure {
     padding: 1rem;
 }
 
+#footercontainer
+{
+  padding-left: -15px;
+}
+
 .socialmedia
 {
   display:inline-block;
