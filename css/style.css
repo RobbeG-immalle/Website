@@ -7,7 +7,7 @@ body,html
   width: 100%;
   font-family: "Poppins", sans-serif;
   color: #222;
-  overflow-x: hidden;
+  /* overflow: hidden; */
   scroll-behavior: smooth;
 }
 
@@ -91,6 +91,11 @@ h1
   
 }
 
+.padding
+{
+  padding-bottom: 2rem;
+}
+
 .iframe-container{
   overflow: hidden;
   position: relative;
@@ -155,7 +160,7 @@ figure {
   height: 100%;
 }
 #fixed {
-  background-image: url(test2.jpg);
+  background-image: url("test2.jpg");
   position: fixed;
   display: block;
   top: 0;
